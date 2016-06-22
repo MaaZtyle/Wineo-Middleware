@@ -15,6 +15,7 @@ import fr.doranco.wineo.middleware.objetmetier.cave.Cave;
  * Un entrepot
  * 
  * @author Snekkja JFDC
+ test
  */
 public class Entrepot implements Cloneable, Serializable {
 
